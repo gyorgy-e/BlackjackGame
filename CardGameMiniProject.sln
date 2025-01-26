@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardGameUI", "CardGameUI\CardGameUI.csproj", "{33A7AEB7-D2D4-4EDC-9BC4-71837AEA32EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardGameLibrary", "CardGameLibrary\CardGameLibrary.csproj", "{AC04286F-CC27-4995-AC5C-326B04B27EEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33A7AEB7-D2D4-4EDC-9BC4-71837AEA32EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A7AEB7-D2D4-4EDC-9BC4-71837AEA32EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A7AEB7-D2D4-4EDC-9BC4-71837AEA32EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A7AEB7-D2D4-4EDC-9BC4-71837AEA32EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC04286F-CC27-4995-AC5C-326B04B27EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC04286F-CC27-4995-AC5C-326B04B27EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC04286F-CC27-4995-AC5C-326B04B27EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC04286F-CC27-4995-AC5C-326B04B27EEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {631A780C-4D32-4AD3-9A1E-DC1DBF8E72E6}
+	EndGlobalSection
+EndGlobal
